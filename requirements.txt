@@ -1,0 +1,7 @@
+flask
+python-docx
+requests
+werkzeug
+docx2txt
+langchain
+openai
